@@ -28,7 +28,6 @@ format:
     code-summary: "显示/隐藏代码"
     code-tools: true
 
-editor: visual
 execute:
   warning: false
   message: false
